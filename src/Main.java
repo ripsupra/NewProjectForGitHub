@@ -4,5 +4,6 @@ public class Main {
         System.out.println("<Muhtar"+"Akbar");
         System.out.println("fuck");
         // line 1
+        // line 2
     }
 }
