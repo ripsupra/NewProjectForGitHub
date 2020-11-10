@@ -3,5 +3,6 @@ public class Main {
         // Akbar < Muhtar
         System.out.println("<Muhtar"+"Akbar");
         System.out.println("fuck");
+        // line 1
     }
 }
